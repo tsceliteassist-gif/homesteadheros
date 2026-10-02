@@ -16,3 +16,7 @@ npm run dev
 
 ## Canon
 Approved character DNA is the source of truth. Visual concept art establishes the world/style but does not override locked character continuity.
+
+
+## Official intro video
+The cinematic home page includes an embedded player for `/public/videos/INTRO.mp4`. Add the approved master video at that path so it ships with the deployed app.
